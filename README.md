@@ -37,6 +37,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - A Library for Mechanistic Interpretability of Generative Language Models.
 1. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - A carefully compiled list that summarizes the diverse functions of the attention heads.
 1. [ecco](https://github.com/jalammar/ecco) - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
+1. [verified-circuits](https://github.com/brian-naughton/verified-circuits) - End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.
 
 ---
 
