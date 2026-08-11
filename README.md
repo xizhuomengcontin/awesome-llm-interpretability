@@ -116,6 +116,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [A circuit for Python docstrings in a 4-layer attention-only transformer](https://www.lesswrong.com/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only) - Proposes the Quantization Model for explaining neural scaling laws in neural networks.
 1. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827) - Examines a specific neural circuit within a 4-layer transformer model responsible for generating Python docstrings.
 1. [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243) - Survey on mechanistic interpretability
+1. [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) - Anthropic’s research article on tracing internal computational pathways in Claude 3.5 Haiku, including multilingual representations, planning, mental math, faithful/unfaithful reasoning, multi-step reasoning, and hallucination-related mechanisms.
 
 ---
 
